@@ -38,19 +38,6 @@ Spotify-CLONE/
 
 ---
 
-## ⚙️ How to Run Locally
-
-1. Clone the repository
-   git clone https://github.com/AbhayDubey78/Spotify-CLONE.git
-
-2. Open folder
-   cd Spotify-CLONE
-
-3. Run the project
-   👉 Open `index.html` in your browser
-
----
-
 ## 💡 Key Highlight
 
 🔥 This project provides a **completely ad-free listening experience**, ensuring uninterrupted music playback.
